@@ -45,15 +45,25 @@ Pour des changements majeurs, veuillez ouvrir un "issue" pour discuter ce que vo
 ## Remerciement
 
 Un grand merci destiné à tous les membres du DSC-ENSB 2019/2020 :
+
 SALEM Abderaouf, 
+
 BOUDEMIA Ala eddine, 
+
 KASSA BAGHDOUCHE Louaï,
+
 SLIMANI Khaled,
+
 MEDDOUR Yazid,
+
 SANA Amir,
+
 BELAIDI Aya,
+
 BOUBERTAKH Ramy,
+
 GHERBI Rabiaa,
+
 HADID Amira.
 
 ## License
